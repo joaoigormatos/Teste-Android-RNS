@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Teste</string>
+    <string name="divisor">-</string>
+    <string name="produtoTitle">Lista de Produtos</string>
+</resources>
